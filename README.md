@@ -97,5 +97,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 🐙 [GitHub Profile](https://github.com/darishaansarii)
 
 ---
-
-Let me know if you'd like me to also include the recommended contents of `.vscode/settings.json` (e.g., formatting preferences, auto-save settings).
