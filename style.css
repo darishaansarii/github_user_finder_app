@@ -1,0 +1,46 @@
+.outline-none {
+    outline: none;
+ }
+ 
+ .border {
+     border: 2px solid #198754 !important;
+ }
+ 
+ .shadow {
+     box-shadow: 5px 5px 5px #bababa !important;
+ }
+ 
+ button:hover {
+     transition: 0.5s all ease-in-out;
+     background-color: #146e44 !important;
+ }
+ 
+ input:focus {
+     border: 2px solid #146e44 !important;
+ }
+
+ .btn-font {
+    font-size: 1.1rem;
+ }
+
+ .github-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .github-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+
+ @media (max-width: 365px) {
+    .input-responsive {
+      width: 100% !important;
+      display: block;
+      margin-bottom: 10px;
+    }
+    .btn-responsive {
+      display: block;
+      width: 100%;
+    }
+  }
