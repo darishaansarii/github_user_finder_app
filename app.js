@@ -10,7 +10,7 @@ const searchUser = async () => {
       .then((res) => res.json())
       .then((data) => {
         console.log(data);
-        userContainer.innerHTML = `<div class="card w-25 github-card" style="width: 18rem;">
+        userContainer.innerHTML = `<div class="card github-card mx-auto my-3" style="max-width: 300px; width: 100%;">
                     <img src="${
                       data.avatar_url
                     }" class="card-img-top" alt="avatar">
