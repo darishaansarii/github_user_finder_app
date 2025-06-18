@@ -18,8 +18,6 @@ A simple and elegant web application that allows users to search for GitHub prof
 * 💻 Responsive and clean UI with Bootstrap.
 * 🧠 API integration with `https://api.github.com/users/{username}`.
 
-> ⚠️ **Note:** Only those users whose data is available in the GitHub API will be displayed. If the username does not exist, the card will not appear or may return an error in the console.
-
 ---
 
 ## 🛠️ Built With
